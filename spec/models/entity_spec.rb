@@ -28,5 +28,3 @@ RSpec.describe Entity, type: :model do
     expect(@entity.group).to eq(@group)
   end
 end
-
-
