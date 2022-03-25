@@ -74,5 +74,3 @@ gem 'jquery-rails'
 
 # CanCan
 gem 'cancancan'
-
-
