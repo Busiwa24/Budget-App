@@ -13,7 +13,6 @@ gem 'autoprefixer-rails'
 
 gem 'mini_racer', platforms: :ruby
 
-
 # Use sqlite3 as the database for Active Record
 gem 'pg'
 
