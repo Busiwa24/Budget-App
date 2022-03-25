@@ -34,3 +34,6 @@ RSpec.feature 'Groups', type: :feature do
     expect(page).to have_content('Category')
   end
 end
+
+
+
